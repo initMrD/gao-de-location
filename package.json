@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "initmrd"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@initmrd/gao-de-location",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/initMrD/gao-de-location.git"
+  },
+  "version": "1.0.3"
+}
